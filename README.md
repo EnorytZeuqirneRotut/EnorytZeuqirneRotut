@@ -1,4 +1,4 @@
-![Header](./![github-header-image 1](https://github.com/EnorytZeuqirneRotut/EnorytZeuqirneRotut/assets/142654110/e013defd-7b63-413d-b544-e3eeef659d04)
+[![MasterHead](https://github.com/EnorytZeuqirneRotut/EnorytZeuqirneRotut/assets/142654110/e013defd-7b63-413d-b544-e3eeef659d04)
 <h1 align="center"></h1>
 <h3 align="center">a simple soul with a love for computers, found his sanctuary in lines of code.</h3>
 <img align="right" alt="Coding" width="600" height="400" src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif">
